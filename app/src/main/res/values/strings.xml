@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gallery Lite</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_on_this_day">On This Day</string>
+
+    <string name="permission_required_title">Access Your Media</string>
+    <string name="permission_required_desc">Gallery Lite needs permission to display your photos and videos locally on your device. We do not connect to the internet.</string>
+    <string name="grant_permission">Grant Access</string>
+    
+    <string name="empty_photos_title">No Photos Found</string>
+    <string name="empty_photos_desc">Take a few pictures or download some images to see them here.</string>
+    
+    <string name="on_this_day_title">Flashbacks</string>
+    <string name="on_this_day_subtitle">Memories from this day in past years</string>
+    <string name="no_memories_today">No photos found from this day in previous years.</string>
+</resources>
