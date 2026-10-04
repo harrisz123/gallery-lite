@@ -13,7 +13,6 @@ class GalleryApp : Application(), SingletonImageLoader.Factory {
             .components {
                 add(VideoFrameDecoder.Factory())
             }
-            .crossfade(true)
             .build()
     }
 }
